@@ -1,3 +1,3 @@
 # Markdown file
 ## This is sample testing of title header
-<img src='https://wallpapercave.com/wp/wp5062546.jpg' alt-text='space background image'>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
